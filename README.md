@@ -107,3 +107,12 @@ pytest -q --html=reports/test_report.html --self-contained-html
 pytest tests/test_basic_search_time_filter.py -q
 ```
 
+### **3. Run tests in Chrome**
+```
+pytest --browser=chrome -q --html=reports/test_report.html --self-contained-html
+```
+
+### **4. Run tests in Firefox**
+```
+pytest --browser=firefox -q --html=reports/test_report.html --self-contained-html
+```
