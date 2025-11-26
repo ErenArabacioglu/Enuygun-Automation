@@ -1,0 +1,6 @@
+departure_time,arrival_time,airline,price,connection,duration,dep_hour,time_slot
+05:55,06:25,Pegasus,1016.0,,1sa 30dk,5,00-06
+15:30,16:00,Pegasus,1016.0,,1sa 30dk,15,12-18
+16:25,16:55,Pegasus,1016.0,,1sa 30dk,16,12-18
+17:40,18:10,Pegasus,1016.0,,1sa 30dk,17,12-18
+19:05,19:35,Pegasus,1016.0,,1sa 30dk,19,18-24

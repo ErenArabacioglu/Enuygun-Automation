@@ -1,0 +1,60 @@
+departure_time,arrival_time,airline,price,connection,duration
+05:55,06:25,Pegasus,1012.0,,1sa 30dk
+13:40,14:10,Pegasus,1012.0,,1sa 30dk
+15:30,16:00,Pegasus,1012.0,,1sa 30dk
+16:25,16:55,Pegasus,1012.0,,1sa 30dk
+17:40,18:10,Pegasus,1012.0,,1sa 30dk
+19:05,19:35,Pegasus,1012.0,,1sa 30dk
+20:30,21:00,Pegasus,1012.0,,1sa 30dk
+23:10,23:40,Pegasus,1012.0,,1sa 30dk
+00:25,01:00,AJet,1059.0,,1sa 35dk
+12:55,13:30,AJet,1059.0,,1sa 35dk
+07:55,08:25,Pegasus,1302.0,,1sa 30dk
+06:50,07:25,AJet,1324.0,,1sa 35dk
+09:55,10:30,AJet,1324.0,,1sa 35dk
+17:35,18:10,AJet,1324.0,,1sa 35dk
+07:45,08:25,Pegasus,1746.0,,1sa 40dk
+18:15,23:00,AJet,2017.0,1 Aktarma,5sa 45dk
+08:00,13:30,AJet,2017.0,1 Aktarma,6sa 30dk
+05:55,13:30,AJet,2017.0,1 Aktarma,8sa 35dk
+18:30,19:10,Pegasus,2036.0,,1sa 40dk
+06:20,18:30,AJet,2167.0,1 Aktarma,13sa 10dk
+10:00,14:55,AJet,2222.0,1 Aktarma,5sa 55dk
+11:45,15:40,AJet,2264.0,1 Aktarma,4sa 55dk
+11:45,19:15,AJet,2264.0,1 Aktarma,8sa 30dk
+08:00,15:40,AJet,2264.0,1 Aktarma,8sa 40dk
+05:55,15:40,AJet,2264.0,1 Aktarma,10sa 45dk
+08:00,19:15,AJet,2264.0,1 Aktarma,12sa 15dk
+05:55,19:15,AJet,2264.0,1 Aktarma,14sa 20dk
+11:05,11:35,Pegasus,2307.0,,1sa 30dk
+01:45,02:20,Türk Hava Yolları,2383.0,,1sa 35dk
+14:40,19:15,AJet,2485.0,1 Aktarma,5sa 35dk
+10:00,15:40,AJet,2485.0,1 Aktarma,6sa 40dk
+10:00,19:15,AJet,2485.0,1 Aktarma,10sa 15dk
+20:35,11:30,AJet,2703.0,1 Aktarma,15sa 55dk
+16:55,11:30,AJet,2703.0,1 Aktarma,19sa 35dk
+20:35,18:30,AJet,2703.0,1 Aktarma,22sa 55dk
+07:45,08:20,Türk Hava Yolları,3182.0,,1sa 35dk
+18:15,15:40,AJet,3536.0,1 Aktarma,22sa 25dk
+14:40,20:05,Türk Hava Yolları,3575.0,1 Aktarma,6sa 25dk
+13:40,20:05,Türk Hava Yolları,3575.0,1 Aktarma,7sa 25dk
+11:35,12:10,Türk Hava Yolları,3648.0,,1sa 35dk
+09:50,10:30,Türk Hava Yolları,3648.0,,1sa 40dk
+14:40,15:20,Türk Hava Yolları,3648.0,,1sa 40dk
+14:40,15:40,AJet,3757.0,1 Aktarma,1g 2sa
+15:30,20:05,Türk Hava Yolları,3781.0,1 Aktarma,5sa 35dk
+18:15,08:05,AJet,4057.0,1 Aktarma,14sa 50dk
+11:45,08:05,AJet,4057.0,1 Aktarma,21sa 20dk
+08:00,08:05,AJet,4057.0,1 Aktarma,1g 1sa 5dk
+12:55,20:05,Türk Hava Yolları,4262.0,1 Aktarma,8sa 10dk
+14:40,08:05,AJet,4290.0,1 Aktarma,18sa 25dk
+10:00,08:05,AJet,4290.0,1 Aktarma,23sa 5dk
+15:45,16:30,Türk Hava Yolları,4306.0,,1sa 45dk
+21:15,15:40,AJet,4847.0,1 Aktarma,19sa 25dk
+19:50,20:30,Türk Hava Yolları,5082.0,,1sa 40dk
+18:15,19:00,AJet,5320.0,1 Aktarma,1g 1sa 45dk
+21:15,08:05,AJet,5377.0,1 Aktarma,11sa 50dk
+21:15,19:00,AJet,6673.0,1 Aktarma,22sa 45dk
+12:35,19:10,AJet,15566.0,1 Aktarma,7sa 35dk
+15:55,19:10,AJet,15905.0,1 Aktarma,4sa 15dk
+09:15,19:10,AJet,15905.0,1 Aktarma,10sa 55dk

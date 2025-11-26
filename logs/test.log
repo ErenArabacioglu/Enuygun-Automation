@@ -1,0 +1,14 @@
+2025-11-27 01:18:10 [INFO] CASE2 - CASE 2 – Starting price sorting for Turkish Airlines test
+2025-11-27 01:18:34 [INFO] CASE2 - CASE 2 – Test completed successfully
+2025-11-27 01:18:22 [INFO] HomePage - Setting FROM city: Istanbul
+2025-11-27 01:18:22 [INFO] HomePage - Clicking element: ('xpath', "//label[@data-testid='flight-origin-input-comp']//input")
+2025-11-27 01:18:22 [INFO] HomePage - Clicking element: ('xpath', "//button[contains(@data-testid, 'flight-search-popular-item-origin')][.//span[contains(normalize-space(), 'İstanbul')]]")
+2025-11-27 01:18:23 [INFO] HomePage - Setting TO city dynamically: Ankara
+2025-11-27 01:18:23 [INFO] HomePage - Clicking element: ('xpath', "//label[@data-testid='flight-destination-input-comp']//input")
+2025-11-27 01:18:23 [INFO] HomePage - Clicking element: ('xpath', "//button[contains(@data-testid, 'flight-search-popular-item-destination')][.//span[contains(normalize-space(), 'Ankara')]]")
+2025-11-27 01:18:23 [INFO] HomePage - Clicking element: ('xpath', "//div[@data-testid='enuygun-homepage-flight-departureDate-label']")
+2025-11-27 01:18:23 [INFO] HomePage - Clicking element: ('xpath', "//button[@title='2025-12-04']")
+2025-11-27 01:18:23 [INFO] HomePage - Clicking element: ('xpath', "//div[@data-testid='enuygun-homepage-flight-returnDate-label']")
+2025-11-27 01:18:24 [INFO] HomePage - Clicking element: ('xpath', "//button[@title='2025-12-05']")
+2025-11-27 01:18:24 [INFO] HomePage - Clicking 'Search' button
+2025-11-27 01:18:24 [INFO] HomePage - Clicking element: ('xpath', "//button[@data-testid='enuygun-homepage-flight-submitButton']")
